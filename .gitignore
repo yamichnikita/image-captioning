@@ -1,4 +1,5 @@
 data/
 cocoapi/
 pickle_files/
+weights/
 captions.txt

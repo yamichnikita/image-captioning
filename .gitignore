@@ -3,3 +3,5 @@ cocoapi/
 pickle_files/
 weights/
 captions.txt
+imgcap_best_bleu.pth
+imgcap_last.pth
